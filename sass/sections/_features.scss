@@ -1,0 +1,35 @@
+/*=========== FEATURES =============*/
+
+section.features{
+    .features__content{
+        margin-top: 80px;
+        display: grid;
+        grid-template-columns: repeat(2,350px);
+        gap: 50px 90px;
+        justify-content: center;
+        @media screen and (max-width:900px) {
+            grid-template-columns: 1fr;
+        }
+
+        .feature{
+            text-align: center;
+            &__img{
+                display: block;
+                margin: auto;
+                height: 65px;
+                margin-bottom: 25px;
+            }
+            &__title{
+                margin-bottom: 15px;
+                font-size: 1.2em;
+            }
+            &__desc{
+                font-size: 14px;
+                line-height: 1.6;
+                max-width: 350px;
+                margin: auto;
+            }
+            
+        }
+    }
+}

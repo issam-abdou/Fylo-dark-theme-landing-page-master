@@ -1,0 +1,11 @@
+/* ============ Button ==========*/
+@mixin btn {
+    background: linear-gradient(to right , $cyan,$call-to-action-blue);
+    color: $white;
+    display: block;
+    font-weight: 700;
+    cursor: pointer;
+    &:hover{
+        background: linear-gradient($cyan);
+    }
+}
