@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/issam-abdou/Fylo-dark-theme-landing-page-master](https://github.com/issam-abdou/Fylo-dark-theme-landing-page-master)
+- Live Site URL: [https://issam-abdou.github.io/Fylo-dark-theme-landing-page-master/](https://issam-abdou.github.io/Fylo-dark-theme-landing-page-master/)
 
 ## My process
 
